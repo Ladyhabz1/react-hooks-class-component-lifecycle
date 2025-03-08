@@ -35,7 +35,7 @@ chat window in a website written in React, a `ChatWindow` component is
 React component gets **deleted**.
 
 It seems all pretty straightforward from the user's perspective, however as
-you'll soon find out, there's a lot of stuff going on behind the scenes.
+you'll soon find out, there's a lot of stuff going on behind scenes.
 
 ## Lifecycle Methods and Rendering
 
